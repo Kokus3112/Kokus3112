@@ -4,7 +4,7 @@
 
 Sou formado em Administração e trabalho resolvendo problemas reais de operação, processos, sistemas e dados, principalmente em food service, bares e restaurantes.
 
-Minha trajetória com tecnologia nasceu dentro da operação: estoque que dependia de planilha, relatório que demorava para sair, gerente decidindo pela percepção, compra sem histórico rápido de preço, comunicação travada entre setores e ERP que nem sempre entregava a tela que a rotina precisava.
+Minha trajetória com tecnologia nasceu dentro da operação: estoque que dependia de planilha, relatório que demorava para sair, gerente decidindo pela percepção, compra sem histórico rápido de preço, comunicação travada entre setores e ERP que nem sempre entregava a tela que a rotina precisava. Então, com base em pesquisa, estudos de maneira autodidata, estou em constante evolução para resolver os desafios que aparecem.
 
 Eu gosto desse tipo de problema. Entender a regra do negócio, descobrir onde o processo quebra, buscar os dados certos e construir uma solução simples o bastante para ser usada no dia a dia.
 
